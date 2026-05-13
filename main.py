@@ -53,7 +53,7 @@ class UserInput(BaseModel):
         elif self.age < 45:
             return 'adult'
         elif self.age < 60:
-            return 'middle_age'
+            return 'middle_aged'
         return 'senior'
     
     @computed_field
