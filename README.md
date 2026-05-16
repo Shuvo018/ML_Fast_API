@@ -9,6 +9,7 @@ A machine learning-powered REST API that predicts a user's **insurance premium c
 This project serves a pre-trained ML model via a FastAPI endpoint. Users can submit their personal details — age, weight, height, income, smoking status, city, and occupation — and the model returns a predicted insurance premium category. A Streamlit frontend provides a clean browser-based interface to interact with the API without needing tools like Postman or curl.
 
 ---
+<img width="827" height="384" alt="image" src="https://github.com/user-attachments/assets/208c2b90-31e3-432f-80b0-687f82c52f8f" />
 
 ## 🗂️ Project Structure
 
