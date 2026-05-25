@@ -1,6 +1,6 @@
 # 🏥 Insurance Premium Category Predictor
 
-A machine learning-powered REST API that predicts a user's **insurance premium category** based on personal and demographic information. Built with **FastAPI** for the backend and **Streamlit** for an interactive frontend UI.
+A machine learning-powered FAST API that predicts a user's **insurance premium category** based on personal and demographic information. Built with **FastAPI** for the backend and **Streamlit** for an interactive frontend UI.
 
 ---
 
